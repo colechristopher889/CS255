@@ -1,10 +1,8 @@
 # CS255
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-
 DriverPass is a client that wants to develop an online presence for their driving school. The system is a web based educational platform that also integrates a scheduling system for in person classes.
 
 What did you do particularly well?
-
 I explained high level concepts to laypeople well.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
